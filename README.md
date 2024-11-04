@@ -1,10 +1,10 @@
 ## Laravel プロジェクト構築手順
 0. **クローン**
     
-    LaravelプロジェクトのDocker設定があるディレクトリに移動します。
+    Laravelの環境構築するためのdocker composeの環境をクローンします
     
     ```bash
-    cd laravel
+    git clone https://github.com/genie-ru/laravel-docker.git
     ```
 1. **ディレクトリの移動**
     
